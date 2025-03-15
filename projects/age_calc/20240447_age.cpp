@@ -1,6 +1,12 @@
 #include <iostream>
 using namespace std;
 
+/*
+  1- عبد الرحمن ياسر احمد عرفات
+  2- 20240447
+  3- A8
+*/
+
 int main()
 {
   int age;
